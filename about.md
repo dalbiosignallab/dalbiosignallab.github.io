@@ -31,6 +31,12 @@ Non-invasive imaging technologies are helping us learn more about the brain. The
 
 My team at the Biosignal Lab focuses on magnetoencephalography (MEG) and electroencepholography (EEG). We collect data locally and work with large open-access datasets available around the world. Our research focuses on developing software and hardware solutions that increase the data yield from neurophysiological recordings. This interdisciplinary research combines physics, mathematics, computer science, psychology, and neuroscience to look at how signalling in the brain can change with learning, development, ageing, brain injury or disease.
 
+The lab is home to Canada's first optically pumped magnetometer (OPM) system. This system includes 16 OPM sensors housed in a cylindrical shield. Although the channel count is low compared to most MEG studies, the OPM sensors and small footprint shield offer a unique imaging environment. Neuroimaging studies are ongoing with our collaborators, and there is still room for basic physics research in system optimization. We also have wireless EEG recording equipment that can be used for real-time applications, such as neurofeedback. 
+
+{% include image_caption.html imageurl="/images/posts/OPM_MEG.jpg" title="OPM MEG System" caption="The OPM MEG system in the Biosignal Lab" %}
+
+Finally, the lab's analysis server provides access to large open-access datasets including the CamCAN and OMEGA MEG datasets, the Temple University EEG Corpus, and the UPENN-RAM intracranial EEG datasets. The analysis of these large datasets is a new focus in the lab, which provides opportunities for new algorithm development including machine learning. We're also committed to sharing our data, code, and findings on open science platforms.   
+
 <a href="mailto:tim.bardouille@dal.ca">Contact me</a> to get involved with the Biosignal Lab
 
 *Thank You for reading!*

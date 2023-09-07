@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: Biosignal Lab
+title: Dal Biosignal Lab
 
 # Below the site title
 tagline: "Human neurophysiology imaging: Developing software and hardware tools to understand the brain."
 
-# Site logo
-logo:
+# Site logo - replaces the site title above
+logo: dal_logo_tra.png
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |

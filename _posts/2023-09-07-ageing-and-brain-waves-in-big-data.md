@@ -3,7 +3,7 @@ layout: post
 title:  "Ageing and Brain Waves in Big Data"
 date:   2023-09-07
 featured_image: lotsOfData.png
-tags: [Big Data, Transients, Ageing]
+tags: [Big Data, Transients, Ageing, MEG]
 author_name: Tim Bardouille
 ---
 
