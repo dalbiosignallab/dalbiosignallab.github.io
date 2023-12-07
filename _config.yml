@@ -16,7 +16,7 @@ logo: dal_logo_tra.png
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
-  BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
+  Research lab website for Tim Bardouille, Medical Physics Professor at Dalhousie University. We focus on functional neuroimaging techqniques like magnetoencephalography (MEG) with an emerging focus on big data and machine learning. 
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: https://dalbiosignallab.github.io
